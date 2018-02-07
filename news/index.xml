@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>最新动态 on WIT电子爱好者协会</title>
+    <link>http://www.witeaa.tk/news/</link>
+    <description>Recent content in 最新动态 on WIT电子爱好者协会</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Tue, 06 Feb 2018 10:38:24 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.witeaa.tk/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>最蠢密码排行榜 看看你的密码在不在上面</title>
+      <link>http://www.witeaa.tk/news/%E6%9C%80%E8%A0%A2%E5%AF%86%E7%A0%81%E6%8E%92%E8%A1%8C%E6%A6%9C-%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81%E5%9C%A8%E4%B8%8D%E5%9C%A8%E4%B8%8A%E9%9D%A2/</link>
+      <pubDate>Tue, 06 Feb 2018 10:38:24 +0800</pubDate>
+      
+      <guid>http://www.witeaa.tk/news/%E6%9C%80%E8%A0%A2%E5%AF%86%E7%A0%81%E6%8E%92%E8%A1%8C%E6%A6%9C-%E7%9C%8B%E7%9C%8B%E4%BD%A0%E7%9A%84%E5%AF%86%E7%A0%81%E5%9C%A8%E4%B8%8D%E5%9C%A8%E4%B8%8A%E9%9D%A2/</guid>
+      <description>很多人为了省事、好记，会把密码设置的非常简单，甚至有些心大的人更是把所有平台账号密码都设置成一样的， 但是殊不知，那些安全性低的密码，可轻松被</description>
+    </item>
+    
+  </channel>
+</rss>
